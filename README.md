@@ -29,3 +29,5 @@ Es un evento organizado por Digital Ocean y Dev con diferentes aliados alrededor
 Al momento de realizar un PR siempre es bueno proveerle información útil a los Administradores del repositorio, esto lo puedes hacer en la descripción de tu PR como por ejemplo, los cambios que realizas y por qué o el ``issue`` que solucionaste; de esta forma los Administradores podrán evaluar tu PR con mayor facilidad y rapidez.
 
 Además GitHub y Git poseen una serie de ``keywords`` que también son muy útiles en los PR, ya que permiten cerrar (close #1) o hacer referencia (#1) a un issue, para mayor información sobre como cerrar issues puedes visitar estás páginas [Cerrar issues con palabras claves](https://help.github.com/en/articles/closing-issues-using-keywords) y [aquí](https://github.blog/2013-01-22-closing-issues-via-commit-messages/).
+
+test
